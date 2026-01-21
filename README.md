@@ -1,4 +1,9 @@
-## Hi there 👋
+## <h1 align="center">Cédric De Souza</h1>
+
+## <p align="center">Développeur Full Stack en recherche d'un stage</p>
+
+
+
 
 <!--
 **ceddscode/ceddscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
