@@ -22,6 +22,13 @@
 
   <details>
     <summary><h5>Site de Forum et Communauté</h2></summary>
+    <img width="600" height="212" alt="image" src="https://github.com/user-attachments/assets/c75602fd-3d3c-437e-b294-0884447b0fb0" />
+    <img width="600" height="514" alt="image" src="https://github.com/user-attachments/assets/560c619f-bfcf-4e0a-b49d-7e94fb69646d" />
+    <img width="600" height="493" alt="image" src="https://github.com/user-attachments/assets/d91763a7-0ee4-4192-a48b-3624b8dd19b9" />
+    <img width="600" height="871" alt="image" src="https://github.com/user-attachments/assets/80834272-e39f-4765-af7d-60268519d24f" />
+    
+
+
 
  
 
